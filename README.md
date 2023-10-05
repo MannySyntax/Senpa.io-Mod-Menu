@@ -3,8 +3,10 @@ The best &amp; most advanced mod menu for Senpa.io 🦠
 
 # How To Install
 
-1.Install https://www.tampermonkey.net \n
+1.Install https://www.tampermonkey.net 
+
 2.Create a new tampermonkey script and paste the following code in the Senpa.io Tampermonkey Script.js script.
+
 3.🎉 Now go to https://senpa.io/web/ & follow the installation steps! 🎉
 
 # Features
